@@ -1,0 +1,240 @@
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\Netriks-Project.dll.config
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\Netriks-Project.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\Netriks-Project.pdb
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\csc.exe
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\csc.exe.config
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\csc.rsp
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\csi.exe
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\csi.exe.config
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\csi.rsp
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.AppContext.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Collections.Immutable.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Console.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.IO.Compression.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.IO.FileSystem.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.IO.Pipes.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Security.AccessControl.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Security.Claims.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Security.Principal.Windows.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.ValueTuple.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Xml.XPath.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\vbc.exe
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\vbc.exe.config
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\vbc.rsp
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\VBCSCompiler.exe
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\roslyn\VBCSCompiler.exe.config
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\Antlr3.Runtime.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\Microsoft.Web.Infrastructure.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\Newtonsoft.Json.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.Helpers.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.Mvc.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.Optimization.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.Razor.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.WebPages.Deployment.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.WebPages.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.WebPages.Razor.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\WebGrease.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.Helpers.xml
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.Mvc.xml
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.Optimization.xml
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.Razor.xml
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.WebPages.xml
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.WebPages.Deployment.xml
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\System.Web.WebPages.Razor.xml
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\Newtonsoft.Json.xml
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\Antlr3.Runtime.pdb
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\obj\Debug\Netriks-Project.csprojAssemblyReference.cache
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\obj\Debug\Netriks-Project.csproj.CoreCompileInputs.cache
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\obj\Debug\Netriks-Project.csproj.CopyComplete
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\obj\Debug\Netriks-Project.dll
+D:\NETRIX PROJECT\Netriks MVC Project\Netriks-Project\Netriks-Project\obj\Debug\Netriks-Project.pdb
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\Netriks-Project.dll.config
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\Netriks-Project.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\Netriks-Project.pdb
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\csc.exe
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\csc.exe.config
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\csc.rsp
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\csi.exe
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\csi.exe.config
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\csi.rsp
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.AppContext.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Collections.Immutable.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Console.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.IO.Compression.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.IO.FileSystem.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.IO.Pipes.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Security.AccessControl.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Security.Claims.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Security.Principal.Windows.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.ValueTuple.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Xml.XPath.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\vbc.exe
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\vbc.exe.config
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\vbc.rsp
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\VBCSCompiler.exe
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\roslyn\VBCSCompiler.exe.config
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\Antlr3.Runtime.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\Microsoft.Web.Infrastructure.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\Newtonsoft.Json.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Net.Http.Formatting.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.Helpers.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.Http.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.Http.WebHost.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.Mvc.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.Optimization.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.Razor.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.WebPages.Deployment.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.WebPages.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.WebPages.Razor.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\WebGrease.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Net.Http.Formatting.xml
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.Http.xml
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.Http.WebHost.xml
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.Helpers.xml
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.Mvc.xml
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.Optimization.xml
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.Razor.xml
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.WebPages.xml
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.WebPages.Deployment.xml
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\System.Web.WebPages.Razor.xml
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\Newtonsoft.Json.xml
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\Antlr3.Runtime.pdb
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\obj\Debug\Netriks-Project.csproj.CoreCompileInputs.cache
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\obj\Debug\Netriks-Project.csproj.CopyComplete
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\obj\Debug\Netriks-Project.dll
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\obj\Debug\Netriks-Project.pdb
+D:\NETRIX PROJECT\Netriks Api\Data\Netriks-Project\obj\Debug\Netriks-Project.csprojAssemblyReference.cache
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\Netriks-Project.dll.config
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\Netriks-Project.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\Netriks-Project.pdb
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\csc.exe
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\csc.exe.config
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\csc.rsp
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\csi.exe
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\csi.exe.config
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\csi.rsp
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.AppContext.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Console.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\vbc.exe
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\vbc.exe.config
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\vbc.rsp
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\Antlr3.Runtime.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\Newtonsoft.Json.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Net.Http.Formatting.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.Helpers.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.Http.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.Http.WebHost.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.Mvc.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.Optimization.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.Razor.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.WebPages.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\WebGrease.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Net.Http.Formatting.xml
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.Http.xml
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.Http.WebHost.xml
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.Helpers.xml
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.Mvc.xml
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.Optimization.xml
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.Razor.xml
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.WebPages.xml
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\Newtonsoft.Json.xml
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\Antlr3.Runtime.pdb
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\obj\Debug\Netriks-Project.csprojAssemblyReference.cache
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\obj\Debug\Netriks-Project.csproj.CoreCompileInputs.cache
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\obj\Debug\Netriks-Project.csproj.CopyComplete
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\obj\Debug\Netriks-Project.dll
+C:\Users\SACHIN\Documents\Visual Studio 2010\Data\Netriks-Project\obj\Debug\Netriks-Project.pdb

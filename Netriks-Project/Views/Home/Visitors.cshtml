@@ -1,0 +1,102 @@
+﻿@model IEnumerable<Netriks_Project.Models.Users>
+@{
+    ViewBag.Title = "Visitor Report";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var c = 0;
+    string message = null;
+    if (TempData["Message"] != null)
+    {
+        message = TempData["Message"].ToString();
+    }
+}
+
+
+<div class="main-content">
+    <div class="page-content">
+        <div class="container-fluid">
+            <!-- start page title -->
+            <div class="row">
+                <div class="col-12">
+                    <div class="page-title-box d-flex align-items-center justify-content-between">
+                        <h4 class="mb-0">Visitor Details</h4>
+                        <div class="page-title-right">
+                            <ol class="breadcrumb m-0">
+                                <li class="breadcrumb-item"><a href="/Home/Index">Dashboard</a></li>
+                                <li class="breadcrumb-item active">Visitor List</li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- end page title -->
+
+
+            <div class="row">
+                <div class="col-12">
+                    <div class="card">
+                        <div class="card-body">
+
+                            <h4 class="card-title">Visitor List</h4>
+
+
+                            <table id="datatable-buttons" class="table table-striped table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                                <thead>
+                                    <tr>
+                                        <td>Edit</td>
+                                        <th>Sr No.</th>
+                                        <th>Visitor Name</th>
+                                        <th>Visitor Email ID</th>
+                                        <th>Visitor Mobile Number</th>
+                                        <th>Visitor Address</th>
+                                        <th>Visitor Birthday</th>
+                                        <th>Visitor Anniversary</th>
+                                        <th>Last Visited On</th>
+                                    </tr>
+                                </thead>
+
+
+                                <tbody>
+                                    @foreach (var data in Model)
+                                    {
+                                        c += 1;
+                                    <tr>
+                                        <td><button class="btn btn-primary" onclick="window.location.href='/Home/Add_visitor?Id=@data.u_id'">Edit</button></td>
+                                        <td>@c</td>
+                                        <td>@data.u_name</td>
+                                        <td>@data.u_email</td>
+                                        <td>@data.u_contact</td>
+                                        <td>No Details</td>
+                                        <td>No Details</td>
+                                        <td>No Details</td>
+                                        @if (data.u_createdOn != null)
+                                        {
+                                            <td>@data.u_createdOn.Value.ToString("dd/MM/yyy hh:mm tt")</td>
+                                        }
+                                        else
+                                        {
+                                            <td>No Details</td>
+                                        }
+                                    </tr>
+                                    }
+
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div> <!-- end col -->
+            </div> <!-- end row -->
+
+
+        </div> <!-- container-fluid -->
+    </div>
+    <!-- End Page-content -->
+
+</div>
+
+@if (TempData["Message"] != null)
+{
+    <script>
+        alert("@message");
+    </script>
+}

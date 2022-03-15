@@ -1,0 +1,196 @@
+﻿
+@{
+    ViewBag.Title = "SuperAdmin";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+
+
+<style>
+    #my_camera {
+        width: 320px;
+        height: 240px;
+        border: 1px solid black;
+    }
+</style>
+
+
+
+<link href="~/Content/assets/libs/dropzone/min/dropzone.min.css" rel="stylesheet" type="text/css" />
+
+
+<!-- ============================================================== -->
+<!-- Start right Content here -->
+<!-- ============================================================== -->
+<div class="main-content">
+    <div class="page-content">
+        <div class="container-fluid">
+            <!-- start page title -->
+            <div class="row">
+                <div class="col-12">
+                    <div class="page-title-box d-flex align-items-center justify-content-between">
+                        <h4 class="mb-0">Admin Details</h4>
+                        <div class="page-title-right">
+                            <ol class="breadcrumb m-0">
+                                @*<li class="breadcrumb-item"><a href="javascript: void(0);">Forms</a></li>
+                                    <li class="breadcrumb-item active">Wizard</li>*@
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- end page title -->
+
+
+
+            <div class="row">
+                <div class="container">
+                    <div class="col-lg-12">
+                        <div class="card">
+                            <div class="card-body">
+                                @*<h4 class="card-title mb-4">Basic Wizard</h4>*@
+                                <div id="basic-example">
+                                    <!-- Seller Details -->
+                                    @*<h3>Seller Details</h3>*@
+                                    <section>
+                                        <form autocomplete="off">
+                                            <div class="col-md-12">
+                                                <div class="row">
+                                                    <div class="col-lg-4">
+                                                        <div class="mb-3">
+                                                            <label for="basicpill-firstname-input">Admin Full Name</label>
+                                                            <input type="text" class="form-control" id="basicpill-firstname-input" name="CName" placeholder="Enter your First name">
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-lg-4">
+                                                        <div class="mb-3">
+                                                            <label for="basicpill-phoneno-input">Admin mobile</label>
+                                                            <input type="text" class="form-control" id="basicpill-phoneno-input" placeholder="Enter your Phone Number">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+
+                                                <div class="row">
+                                                    <div class="col-lg-4">
+                                                        <div class="mb-3">
+                                                            <label for="basicpill-email-input">Admin Email</label>
+                                                            <input type="email" class="form-control" id="basicpill-email-input" placeholder="Enter your email address">
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-4">
+                                                        <div class="mb-3">
+                                                            <label for="basicpill-phoneno-input">Customer Birthdate</label>
+                                                            <input type="date" class="form-control" id="basicpill-phoneno-input" placeholder="Enter your Phone Number">
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-4">
+                                                        <div class="mb-3">
+                                                            <label for="basicpill-email-input">Customer Anniversary</label>
+                                                            <input type="date" class="form-control" id="basicpill-email-input" placeholder="Enter your email address">
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-lg-4">
+                                                        <div class="mb-3">
+                                                            <label for="basicpill-address-input">Customer address</label>
+                                                            <textarea id="basicpill-address-input" class="form-control" rows="2" placeholder="Enter your Address"></textarea>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <div class="col-lg-4">
+                                                        <div class="mb-3">
+                                                            <label for="basicpill-address-input">Customer Photo</label>
+                                                            <div class="fallback">
+                                                                <input name="file" type="file">
+                                                            </div>
+                                                            <div class="dz-message needsclick">
+                                                                <div class="mb-3">
+                                                                    <i class="display-4 text-muted uil uil-cloud-upload"></i>
+                                                                </div>
+
+                                                                <h4>Drop Image here or click to upload.</h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4">
+                                                        <div id="my_camera"></div>
+                                                        <input type=button value="Take Snapshot" onClick="take_snapshot()">
+
+                                                        <div id="results"></div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="row">
+                                                    <div class="col-lg-4">
+
+                                                    </div>
+                                                    <div class="col-lg-4 ">
+                                                        <div class="mb-3">
+                                                            <button type="button" class="btn btn-primary">Submit</button>
+                                                            <button type="button" class="btn btn-danger">Cancel</button>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-4">
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+
+                                    </section>
+
+
+
+
+
+
+                                </div>
+                            </div>
+                            <!-- end card body -->
+                        </div>
+                        <!-- end card -->
+                    </div>
+                    <!-- end col -->
+
+
+                </div>
+            </div>
+            <!-- end row -->
+
+
+
+
+
+
+        </div> <!-- container-fluid -->
+    </div>
+    <!-- End Page-content -->
+
+
+</div>
+<!-- end main content-->
+
+<script src="~/Content/assets/libs/dropzone/min/dropzone.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/webcamjs/1.0.26/webcam.min.js"></script>
+@*<script>
+    Webcam.set({
+        width: 320,
+        height: 240,
+        image_format: 'jpeg',
+        jpeg_quality: 90
+    });
+    Webcam.attach('#my_camera');
+    Webcam.snap(function (data_uri) {
+        // display results in page
+        document.getElementById('results').innerHTML =
+            '<img src="' + data_uri + '"/>';
+    });
+</script>*@
+
+
